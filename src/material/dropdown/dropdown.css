@@ -1,0 +1,44 @@
+.dropdown {
+	position: relative;
+}
+
+.dropdownHead {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	background: rgb(255, 255, 255);
+	border-radius: 5px;
+	border: 1px solid rgb(236, 240, 247);
+	box-shadow: 0px 1px 1px 0px rgb(237, 241, 250);
+	height: 56px;
+	width: 232px;
+	cursor: pointer;
+}
+
+.dropdownLabel {
+	color: rgba(6, 43, 117, 0.4);
+	font-size: 14px;
+	font-weight: 500;
+	letter-spacing: 0px;
+}
+
+.dropdownHeader {
+	color: rgb(6, 43, 117);
+	font-size: 18px;
+	font-weight: normal;
+	letter-spacing: 0px;
+}
+
+.dropdownContent {
+	margin: 9px 0px;
+	margin-right: auto;
+}
+
+.dropdownIcon {
+	margin: 20px 15px;
+	color: rgba(6, 43, 117, 0.2);
+}
+
+.dropdownArrow {
+	margin-right: 17px;
+}

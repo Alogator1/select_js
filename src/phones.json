@@ -1,0 +1,118 @@
+[
+    {
+    "label": "apple", 
+    "id": "5d48260a0af5155a05ac5e8f"
+    },
+    {
+    "label": "easyjet", 
+    "id": "5d48260a6b8700d05ba014d4"
+    },
+    {
+    "label": "uber", 
+    "id": "5d48260ac93bafa367c5b197"
+    },
+    {
+    "label": "amazon", 
+    "id": "5d48260ad6124adf097ffb59"
+    },
+    {
+    "label": "sncf", 
+    "id": "5d48260afca41c53cd61f028"
+    },
+    {
+    "label": "la_poste", 
+    "id": "5d48260a15c926ff9c3f5444"
+    },
+    {
+    "label": "total", 
+    "id": "5d48260ab258c9dbacbcb8e1"
+    },
+    {
+    "label": "booking", 
+    "id": "5d48260a60cbf7c96d32f7a7"
+    },
+    {
+    "label": "linkedin", 
+    "id": "5d48260ac0c7c8d37e7dae68"
+    },
+    {
+    "label": "trainline", 
+    "id": "5d48260ab9173ef9ec4e6ebd"
+    },
+    {
+    "label": "airbnb", 
+    "id": "5d48260afb3fd29ff8c65a96"
+    },
+    {
+    "label": "starbucks", 
+    "id": "5d48260a90d6893ddb41ce44"
+    },
+    {
+    "label": "air_france", 
+    "id": "5d48260a06944f34dbcef3ef"
+    },
+    {
+    "label": "ikea", 
+    "id": "5d48260a6edc006e0aad70e6"
+    },
+    {
+    "label": "monoprix", 
+    "id": "5d48260a921b9d136f2ad3cc"
+    },
+    {
+    "label": "fnac", 
+    "id": "5d48260a683d23e8b0cf981c"
+    },
+    {
+    "label": "deliveroo", 
+    "id": "5d48260a09d5c5d1b8d11882"
+    },
+    {
+    "label": "facebook", 
+    "id": "5d48260af361255a5a2f1ec0"
+    },
+    {
+    "label": "google", 
+    "id": "5d48260ac73711fd709389fa"
+    },
+    {
+    "label": "microsoft", 
+    "id": "5d48260ad03a00a9e4e5adf8"
+    },
+    {
+    "label": "franprix", 
+    "id": "5d48260ae47dbceb4f9dae24"
+    },
+    {
+    "label": "darty", 
+    "id": "5d48260abdcdfb5a2d2d8177"
+    },
+    {
+    "label": "sum_up", 
+    "id": "5d48260a229d04669a8d48c7"
+    },
+    {
+    "label": "ryanair", 
+    "id": "5d48260aa4ea5be3b6a17f83"
+    },
+    {
+    "label": "ovh", 
+    "id": "5d48260a3b8657aa8abbc935"
+    },
+    {
+    "label": "eurostar", 
+    "id": "5d48260ac773d09b0a1871ae"
+    },
+    {
+    "label": "nike", 
+    "id": "5d48260ad92eca5e2e7a817a"
+    },
+    {
+    "label": "spotify", 
+    "id": "5d48260a655349f93f873d19"
+    },
+    {
+    "label": "drivy",
+    "id": "5d48260ac48dd184fd542d96"
+    }
+]  

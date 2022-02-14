@@ -1,0 +1,39 @@
+.dropdownBody {
+	display: flex;
+	flex-direction: column;
+	position: absolute;
+	bottom: -478px;
+	right: 0;
+	background: rgb(255, 255, 255);
+	border-radius: 4px;
+	border: 1px solid rgb(236, 240, 247);
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.08);
+	height: 476px;
+	width: 231px;
+}
+
+.dropdownList {
+	height: 283px;
+	min-height: 283px;
+	overflow-y: auto;
+	max-width: 100%;
+}
+
+.dropdownButtom {
+	margin-top: auto;
+}
+
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color:#1494f4;
+	border-radius: 5px;
+}
+
+.dropdownBodyWrapper {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 10px;
+}
