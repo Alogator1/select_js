@@ -9,9 +9,6 @@ import React, { useEffect, useState } from 'react';
 import './dropdown.css';
 import DropdownBody from '../dropdown_body/dropdown_body';
 
-
-
-/* ========== ~~~~~~~~~~ DROPDOWN ~~~~~~~~~~ ========== */
 const DropDown = (props) => {
 	const {label, itemList, selectedItems, icon, onUpdate, onSelectAll} = props;
 

@@ -6,7 +6,6 @@ import { faMagnifyingGlass } from "@fortawesome/free-solid-svg-icons";
 // styles
 import './search.css';
 
-/* ========== ~~~~~~~~~~ DROPDOWN ~~~~~~~~~~ ========== */
 const Search = (props) => {
 	const { onChange, label, value } = props;
 

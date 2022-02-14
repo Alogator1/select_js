@@ -5,7 +5,6 @@ import React from 'react';
 import './button.css';
 
 
-/* ========== ~~~~~~~~~~ DROPDOWN ~~~~~~~~~~ ========== */
 const Button = (props) => {
 	const { onClick, label, isChanged } = props;
 

@@ -14,7 +14,6 @@ import DropdownItem from "./dropdown_item/dropdown_item";
 
 
 
-/* ========== ~~~~~~~~~~ DROPDOWN ~~~~~~~~~~ ========== */
 const DropdownBody = (props) => {
 	const {itemList, selectedItems, onUpdate, onSortClick, onSearch, sortValue, onSelectAll} = props;
 
@@ -23,7 +22,7 @@ const DropdownBody = (props) => {
 			<div className="dropdownBodyWrapper">
 
 			<Search label={'Search Site'} value={sortValue} onChange={onSearch}/>
-			
+
 			<DropdownInnerButton
 			icon={faCirclePlus}
 			label="Select all"

@@ -6,7 +6,6 @@ import React from 'react';
 import './dropdown_inner_button.css';
 
 
-/* ========== ~~~~~~~~~~ DROPDOWN ~~~~~~~~~~ ========== */
 const DropdownInnerButton = (props) => {
 	const { label, icon, onClick } = props;
 
